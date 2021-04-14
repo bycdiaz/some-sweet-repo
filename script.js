@@ -1,5 +1,5 @@
 function aSweetFunction(somethingSweet) {
-  somethingSweet;
+  return somethingSweet;
 }
 
 console.log(aSweetFunction('wow'));
